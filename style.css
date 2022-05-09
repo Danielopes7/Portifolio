@@ -33,4 +33,5 @@ section .text span
 
 codersrank-summary {
     --header-bg-color: #593196;
+    --badge-bg-color: #593196;
 }
