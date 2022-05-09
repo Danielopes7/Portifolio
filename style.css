@@ -30,3 +30,7 @@ section .text span
     transform-origin: 0px;
 
 }
+
+codersrank-summary {
+    --header-bg-color: #593196;
+}
